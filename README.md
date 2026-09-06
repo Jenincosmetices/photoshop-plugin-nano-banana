@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Nano Banana Photoshop Plugin
+# 🍌 Nano Banana Photoshop Plugin 🍌
 AI Inpainting inside Adobe Photoshop (Google "Nano Banana PRO" Model)
 
 ---
