@@ -1,0 +1,1 @@
+# photoshop-plugin-nano-banana
